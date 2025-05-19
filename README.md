@@ -1,7 +1,3 @@
-<p align="center">
- <img src="https://drive.google.com/file/d/1LMGfkt6SV3gmMqKtMeXhLXJE_t1jb2Ty/view?usp=drive_link" width="200" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Hemanth Guguloth</h1>
 <h3 align="center">🎓 BTech @ IIT Kharagpur | Passionate Developer | Co-Founder of CampusBuzz | Building Tech That Matters</h3>
 
